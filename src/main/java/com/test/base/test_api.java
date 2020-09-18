@@ -1,5 +1,4 @@
 package com.test.base;
-
 import static org.testng.Assert.assertEquals;
 
 import io.restassured.RestAssured;
